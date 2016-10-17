@@ -24,13 +24,11 @@ editing when editing the C++ code for your UE4 game.)
 
 Software and Hardware List
 
-| Chapter  | Software required             | OS required                |
-| -------- | ----------------------------- | ---------------------------|
-|          |Visual Studio 2015 CE, Unreal  | Windows Vista              |
-| 1 to 12  |Engine 4.11 or greater.        | or newer, OSX, or          |
-|          |                               | recent Linux distribution. |
-
-
+| Chapter  | Software required             | OS required                       |
+| -------- | ----------------------------- | ----------------------------------|
+| 1 to 12  |Visual Studio 2015 CE, Unreal  | Windows Vista or newer,           |
+|          |Engine 4.11 or greater.        | OSX, or recent Linux distribution |
+                                      
 
 ##Related Products
 * [Unreal Engine 4.X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=Github&utm_medium=Repository&utm_campaign=9781785885532)

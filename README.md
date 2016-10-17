@@ -1,5 +1,5 @@
 #Unreal Engine 4 Scripting with C++ Cookbook
-This is the code repository for [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/game-development/unreal-eng), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Unreal Engine 4 Scripting with C++ Cookbook](https://www.packtpub.com/game-development/unreal-engine-4-scripting-c-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781785885549), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 

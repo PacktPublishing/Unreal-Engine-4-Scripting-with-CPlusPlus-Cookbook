@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chapter2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6EE8D5B8-C014-4511-B0E4-F21477581AE7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chapter2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Chapter2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DB7EDF0A-AA00-43B0-854E-F840CDE64C94}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Chapter2">
+      <UniqueIdentifier>{B3EA500B-DB27-438F-A377-06A0A4766D1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chapter2\Chapter2.Build.cs">
+      <Filter>Source\Chapter2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chapter2\Chapter2.cpp">
+      <Filter>Source\Chapter2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chapter2\Chapter2.h">
+      <Filter>Source\Chapter2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chapter2\Chapter2GameMode.cpp">
+      <Filter>Source\Chapter2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chapter2\Chapter2GameMode.h">
+      <Filter>Source\Chapter2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Chapter2\ColoredTexture.h">
+      <Filter>Source\Chapter2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter2\UserProfile.h">
+      <Filter>Source\Chapter2</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter2\Status.h">
+      <Filter>Source\Chapter2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Chapter2\UserProfile.cpp">
+      <Filter>Source\Chapter2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

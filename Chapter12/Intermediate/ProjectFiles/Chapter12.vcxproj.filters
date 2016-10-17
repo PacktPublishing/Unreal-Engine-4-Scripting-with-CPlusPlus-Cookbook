@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chapter12.uproject" />
+    <None Include="..\..\Source\Chapter12.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Chapter12Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{394812CC-33A9-426C-BDD0-E13119DEB580}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Source\Chapter12\Chapter12.Build.cs">
+      <Filter>Source\Chapter12</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chapter12\Chapter12.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chapter12\Chapter12.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chapter12\Chapter12GameMode.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chapter12\Chapter12GameMode.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Chapter12\Functions.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\Logging.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\noise1234.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\Warrior.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\GameUnitAttributeSet.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\GameUnitAttributeStatsRow.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\GameplayAbility_Attack.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\GameplayTask_CreateParticles.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Chapter12\HttpDialog.h">
+      <Filter>Source\Chapter12</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Chapter12\Functions.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Chapter12\Logging.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Chapter12\noise1234.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Chapter12\Warrior.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Chapter12\GameUnitAttributeSet.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Chapter12\GameplayTask_CreateParticles.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Chapter12\HttpDialog.cpp">
+      <Filter>Source\Chapter12</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{6C20137F-D3FB-4AF1-9162-220D7D6D459F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\Chapter12">
+      <UniqueIdentifier>{0B533729-F8A9-4976-A2A9-56B2706CA0E5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

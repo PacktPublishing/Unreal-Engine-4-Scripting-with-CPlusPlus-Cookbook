@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chapter3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{383258EE-1B2B-4257-AE13-06B34A31B8A8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chapter3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Chapter3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{AF904E7C-FFC5-421B-B874-1E5B858E2156}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Chapter3">
+      <UniqueIdentifier>{377E570E-C6E1-432F-85FB-4F35D3151BBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chapter3\Chapter3.Build.cs">
+      <Filter>Source\Chapter3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chapter3\Chapter3.cpp">
+      <Filter>Source\Chapter3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chapter3\Chapter3.h">
+      <Filter>Source\Chapter3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chapter3\Chapter3GameMode.cpp">
+      <Filter>Source\Chapter3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chapter3\Chapter3GameMode.h">
+      <Filter>Source\Chapter3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Chapter3\Action.h">
+      <Filter>Source\Chapter3</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Chapter3\Action.cpp">
+      <Filter>Source\Chapter3</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.12",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Chapter4",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}

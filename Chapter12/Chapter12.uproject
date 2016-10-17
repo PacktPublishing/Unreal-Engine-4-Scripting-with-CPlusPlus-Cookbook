@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.11",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Chapter12",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"CoreUObject",
+				"Engine",
+				"GameplayTasks",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModoMaterialImporter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/9cbfb639f28d446983f74d8d400563e0"
+		}
+	]
+}

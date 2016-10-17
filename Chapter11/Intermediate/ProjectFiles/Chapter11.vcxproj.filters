@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Chapter11.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{4A9EEAF1-E513-4476-B881-2E762571F9D4}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Chapter11.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\Chapter11Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{F1AED37C-BEB4-43E8-8E8B-C20ACD7CBE46}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Chapter11">
+			<UniqueIdentifier>{1F227887-EDE2-4592-85C4-9AD133AFB280}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Chapter11\Chapter11.Build.cs">
+			<Filter>Source\Chapter11</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Chapter11\Chapter11.cpp">
+			<Filter>Source\Chapter11</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Chapter11\Chapter11.h">
+			<Filter>Source\Chapter11</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Chapter11\Chapter11GameMode.cpp">
+			<Filter>Source\Chapter11</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Chapter11\Chapter11GameMode.h">
+			<Filter>Source\Chapter11</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -26,8 +26,8 @@ Software and Hardware List
 
 | Chapter  | Software required             | OS required                |
 | -------- | ----------------------------- | ---------------------------|
-| 1 to 12  |Visual Studio 2015 CE, Unreal  | Windows Vista              |
-|          |Engine 4.11 or greater.        | or newer, OSX, or          |
+|          |Visual Studio 2015 CE, Unreal  | Windows Vista              |
+| 1 to 12  |Engine 4.11 or greater.        | or newer, OSX, or          |
 |          |                               | recent Linux distribution. |
 
 

@@ -23,10 +23,10 @@ install it, and set it up for UE4 C++ coding. (Visual Studio is an essential pac
 editing when editing the C++ code for your UE4 game.)
 
 ##Related Products
-* [Unreal Engine 4.X By Example](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781785885532 )
+* [Unreal Engine 4.X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=Github&utm_medium=Repository&utm_campaign=9781785885532)
 
-* [Learning C++ by Creating Games with UE4](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781784396572)
+* [Learning C++ by Creating Games with UE4](https://www.packtpub.com/game-development/learning-c-creating-games-ue4?utm_source=Github&utm_medium=Repository&utm_campaign=9781784396572)
 
-* [UnrealScript Game Programming Cookbook](Current URL?utm_source=github&utm_medium=repository&utm_campaign=9781849695565 )
+* [UnrealScript Game Programming Cookbook](https://www.packtpub.com/game-development/unrealscript-game-programming-cookbook?utm_source=Github&utm_medium=Repository&utm_campaign=9781849695565)
 ###Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.

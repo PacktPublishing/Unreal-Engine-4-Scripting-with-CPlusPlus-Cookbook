@@ -22,6 +22,16 @@ a C++ coding environment to build our UE4 applications. We'll download Visual St
 install it, and set it up for UE4 C++ coding. (Visual Studio is an essential package for code
 editing when editing the C++ code for your UE4 game.)
 
+Software and Hardware List
+
+| Chapter  | Software required             | OS required                |
+| -------- | ----------------------------- | ---------------------------|
+| 1 to 12  |Visual Studio 2015 CE, Unreal  | Windows Vista              |
+|          |Engine 4.11 or greater.        | or newer, OSX, or          |
+|          |                               | recent Linux distribution. |
+
+
+
 ##Related Products
 * [Unreal Engine 4.X By Example](https://www.packtpub.com/game-development/unreal-engine-4x-example?utm_source=Github&utm_medium=Repository&utm_campaign=9781785885532)
 
